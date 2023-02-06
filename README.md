@@ -6,16 +6,22 @@
 
 - _When the app first loads_, display a tile for each hog in the
   `porker_data.js` file. In the tile, display the **name** and **image** for
-  each hog.
+  each hog.                                                                                         //DONE
+
+
 - _When the user clicks on the hog tile_, display the other details about the
   hog (its **specialty**, **weight**, **greased**, and **highest medal
-  achieved**)
-- Allow the user to _filter_ the hogs that are **greased**
-- Allow the user to _sort_ the hogs based on **name** or **weight**
+  achieved**)                                                                                       //not done yet
 
-- BONUS: Allow users to _hide_ hogs (not delete them, just hide them from view!)
-- BONUS: Add a form to allow users to _add_ new hogs to the page
-- BONUS: Implement [Semantic Cards](https://semantic-ui.com/views/card.html) for
+
+///////////- Allow the user to _filter_ the hogs that are **greased**                                          //DONE
+
+
+///////////- Allow the user to _sort_ the hogs based on **name** or **weight**                                 //DONE
+
+- BONUS: Allow users to _hide_ hogs (not delete them, just hide them from view!)                    //not done yet
+- BONUS: Add a form to allow users to _add_ new hogs to the page                                     //not done yet
+- BONUS: Implement [Semantic Cards](https://semantic-ui.com/views/card.html) for                     //not done yet
   each hog
 
 ## Project Guidelines

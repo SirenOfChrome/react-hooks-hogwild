@@ -105,4 +105,3 @@ const hogs = [
 
 
 export default hogs;
-///Users/furiousinc/Desktop/react-hooks-hogwild/src/porkers_data.js
